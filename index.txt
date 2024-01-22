@@ -1,4 +1,4 @@
-Doclab - home
+Healthcare Hub - home
 
 This is a madical html template made by codewithsadee
 
@@ -6,9 +6,9 @@ This is a madical html template made by codewithsadee
 
 #---------- HEADER ----------#
 
-alt = Doclab home
+alt = Healthcare Hub home
 
-alt = Doclab home
+alt = Healthcare Hub home
 
 aria-label = clsoe menu
 <ion-icon name="close-outline" aria-hidden="true"></ion-icon>
@@ -152,14 +152,14 @@ How do binge eating and drinking impact the liver?
 
 #---------- FOOTER ----------#
 
-alt = Doclab home
+alt = Healthcare Hub home
 
 <ion-icon name="mail-open-outline"></ion-icon>
 Main Email :
-contact@website.com
+contact@HealthcareHub.com
 
 Inquiries :
-Info@mail.com
+Info-HealthcareHub@mail.com
 
 <ion-icon name="call-outline"></ion-icon>
 
@@ -167,7 +167,7 @@ Office Telephone :
 0029129102320
 
 Mobile :
-000 2324 39493
+966 050 7825635
 
 About Us
 
@@ -175,8 +175,8 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
 
 <ion-icon name="map-outline"></ion-icon>
 
-2416 Mapleview Drive
-Tampa, FL 33634
+2416 Lakeview Drive,Olaya 
+Riyadh, FL 33634
 
 Services
 
@@ -204,7 +204,7 @@ Subscribe
 
 Get the latest updates via email. Any time you may unsubscribe
 
-&copy; Doclab 2022 | All Rights Reserved by codewithsadee
+&copy; Healthcare Hub 2024 | All Rights Reserved by codewithsadee
 
 <ion-icon name="logo-facebook"></ion-icon>
 <ion-icon name="logo-twitter"></ion-icon>
